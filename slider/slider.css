@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.slider-wrap{
+  width: 100%;
+  overflow: hidden;
+}
+.slider-pic{
+  width: 7920px;
+  height: 600px;
+  overflow: hidden;
+}
+.slider-pic li{
+  float: left;
+  list-style: none;
+}
