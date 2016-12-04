@@ -22,4 +22,3 @@ function move() {
     out.scrollLeft += startpos;
   },15);//没一小步间隔时间15ms
 }
-move();
